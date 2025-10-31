@@ -1,1 +1,1 @@
-# QA.QUGU Homewrok lesson 3
+# QA.QUGU Homework lesson 3
